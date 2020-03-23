@@ -9,24 +9,23 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Error from './components/Error';
 import Images from './components/Images';
-// import logo from './logo.svg';
 require('dotenv').config();
 
-const path = process.env.PUBLIC_URL;
+// const path = process.env.PUBLIC_URL;
 
 class App extends Component {
   render () {
     return (
-      <Router basename={path}>
+      <Router basename="https://github.com/doctoron/am-portfolio2">
         <div className="App">
           <Nav />
           <Switch>
-            <Route exact path={path + "/"} component={Portfolio} />
-            <Route path={path + "/my-portfolio"} component={Portfolio} />
-            <Route path={path + "/contact"} component={Contact} />
-            <Route path={path + "/my-resume"} component={Resume} />
-            <Route path={path + "/about"} component={About} />
-            <Route path={path + "/images"} component={Images} />
+            <Route exact path="/" component={Portfolio} />
+            <Route path="/my-portfolio" component={Portfolio} />
+            <Route path="/contact" component={Contact} />
+            <Route path="/my-resume" component={Resume} />
+            <Route path="/about" component={About} />
+            <Route path="/images" component={Images} />
             <Route component={Error} />
           </Switch>
           <Footer />
