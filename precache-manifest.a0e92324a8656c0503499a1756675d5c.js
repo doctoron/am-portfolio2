@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71687ac51dafbc6da98bfabeee34e400",
+    "revision": "9dfc0a3fdcdb7b27743a92bd9cd4f60b",
     "url": "https://antoniosmagnet.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "ff89ec99cd462b2b5b15",
+    "revision": "dfa8479883ec7f8e7aee",
     "url": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://antoniosmagnet.com/static/js/2.d21a6616.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff89ec99cd462b2b5b15",
-    "url": "https://antoniosmagnet.com/static/js/main.029ffe4d.chunk.js"
+    "revision": "dfa8479883ec7f8e7aee",
+    "url": "https://antoniosmagnet.com/static/js/main.afafc74e.chunk.js"
   },
   {
     "revision": "9a0d18fdd521b4a08e60",
