@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "//doctoron.github.io/am-portfolio2/static/css/main.5f361e03.chunk.css",
-    "main.js": "//doctoron.github.io/am-portfolio2/static/js/main.11ecaa41.chunk.js",
-    "main.js.map": "//doctoron.github.io/am-portfolio2/static/js/main.11ecaa41.chunk.js.map",
-    "runtime-main.js": "//doctoron.github.io/am-portfolio2/static/js/runtime-main.aa335d7b.js",
-    "runtime-main.js.map": "//doctoron.github.io/am-portfolio2/static/js/runtime-main.aa335d7b.js.map",
-    "static/js/2.123ae4d0.chunk.js": "//doctoron.github.io/am-portfolio2/static/js/2.123ae4d0.chunk.js",
-    "static/js/2.123ae4d0.chunk.js.map": "//doctoron.github.io/am-portfolio2/static/js/2.123ae4d0.chunk.js.map",
-    "index.html": "//doctoron.github.io/am-portfolio2/index.html",
-    "precache-manifest.f4ec6b22b8b4bcfd128bf008922198d7.js": "//doctoron.github.io/am-portfolio2/precache-manifest.f4ec6b22b8b4bcfd128bf008922198d7.js",
-    "service-worker.js": "//doctoron.github.io/am-portfolio2/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "//doctoron.github.io/am-portfolio2/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.123ae4d0.chunk.js.LICENSE.txt": "//doctoron.github.io/am-portfolio2/static/js/2.123ae4d0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//doctoron.github.io/am-portfolio2/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css",
+    "main.js": "https://antoniosmagnet.com/static/js/main.4adb829c.chunk.js",
+    "main.js.map": "https://antoniosmagnet.com/static/js/main.4adb829c.chunk.js.map",
+    "runtime-main.js": "https://antoniosmagnet.com/static/js/runtime-main.cbfc2bac.js",
+    "runtime-main.js.map": "https://antoniosmagnet.com/static/js/runtime-main.cbfc2bac.js.map",
+    "static/css/2.de424728.chunk.css": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css",
+    "static/js/2.6503df2a.chunk.js": "https://antoniosmagnet.com/static/js/2.6503df2a.chunk.js",
+    "static/js/2.6503df2a.chunk.js.map": "https://antoniosmagnet.com/static/js/2.6503df2a.chunk.js.map",
+    "index.html": "https://antoniosmagnet.com/index.html",
+    "precache-manifest.c4b421d7a9fd97f61eec0336c86c5b52.js": "https://antoniosmagnet.com/precache-manifest.c4b421d7a9fd97f61eec0336c86c5b52.js",
+    "service-worker.js": "https://antoniosmagnet.com/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css.map",
+    "static/css/main.577d1756.chunk.css.map": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css.map",
+    "static/js/2.6503df2a.chunk.js.LICENSE.txt": "https://antoniosmagnet.com/static/js/2.6503df2a.chunk.js.LICENSE.txt",
+    "static/media/earthrise.jpg": "https://antoniosmagnet.com/static/media/earthrise.65e19f9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa335d7b.js",
-    "static/js/2.123ae4d0.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.11ecaa41.chunk.js"
+    "static/js/runtime-main.cbfc2bac.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.6503df2a.chunk.js",
+    "static/css/main.577d1756.chunk.css",
+    "static/js/main.4adb829c.chunk.js"
   ]
 }
