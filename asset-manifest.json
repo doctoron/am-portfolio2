@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css",
-    "main.js": "https://antoniosmagnet.com/static/js/main.f33be8e4.chunk.js",
-    "main.js.map": "https://antoniosmagnet.com/static/js/main.f33be8e4.chunk.js.map",
+    "main.js": "https://antoniosmagnet.com/static/js/main.cb234d96.chunk.js",
+    "main.js.map": "https://antoniosmagnet.com/static/js/main.cb234d96.chunk.js.map",
     "runtime-main.js": "https://antoniosmagnet.com/static/js/runtime-main.cbfc2bac.js",
     "runtime-main.js.map": "https://antoniosmagnet.com/static/js/runtime-main.cbfc2bac.js.map",
     "static/css/2.de424728.chunk.css": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css",
     "static/js/2.79649ec6.chunk.js": "https://antoniosmagnet.com/static/js/2.79649ec6.chunk.js",
     "static/js/2.79649ec6.chunk.js.map": "https://antoniosmagnet.com/static/js/2.79649ec6.chunk.js.map",
     "index.html": "https://antoniosmagnet.com/index.html",
-    "precache-manifest.752606764c3e1c570e9b69c543c9adb4.js": "https://antoniosmagnet.com/precache-manifest.752606764c3e1c570e9b69c543c9adb4.js",
+    "precache-manifest.cd995a3802bf3a0f1c7afe5c210ff91c.js": "https://antoniosmagnet.com/precache-manifest.cd995a3802bf3a0f1c7afe5c210ff91c.js",
     "service-worker.js": "https://antoniosmagnet.com/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css.map",
     "static/css/main.577d1756.chunk.css.map": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.79649ec6.chunk.js",
     "static/css/main.577d1756.chunk.css",
-    "static/js/main.f33be8e4.chunk.js"
+    "static/js/main.cb234d96.chunk.js"
   ]
 }
