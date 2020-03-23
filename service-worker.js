@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//doctoron.github.io/am-portfolio2/precache-manifest.6f4a1eb9dd982b6e6f2e728401243c7e.js"
+  "//doctoron.github.io/am-portfolio2/precache-manifest.bdf226eaa72e1a3e68cd252054ef2335.js"
 );
 
 self.addEventListener('message', (event) => {
