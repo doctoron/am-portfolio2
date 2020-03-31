@@ -40,7 +40,7 @@ class MyNav extends React.Component {
                   <NavLink tag={Link} to="/about" onClick={this.toggle} >About</NavLink>
                 </NavItem>
                 <NavItem >
-                  <NavLink tag={Link} to="/my-resume" onClick={this.toggle}> Resume</NavLink>
+                  <NavLink tag={Link} to="/resume" onClick={this.toggle}> Resume</NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink tag={Link} to="/contact" onClick={this.toggle}>Contact</NavLink>

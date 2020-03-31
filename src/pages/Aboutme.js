@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import {
   Card,
   CardTitle,
@@ -57,7 +58,7 @@ class AboutMe extends Component {
           <CardBody>
             <CardText className="text" style={this.styles.aboutArea}>
               Ronald K. Antonio is the founder of Antonio's Magnet, a Full-Stack Web
-              Developer and Contract Consultant who draws from diverse experiences.  As
+              Developer and contract consultant who draws from diverse experiences.  As
               an IT professional and former Registered Respiratory Therapist, he is
               conversant in the MERN and MEAN stack SDLC.  He has built networks from the
               ground up, designed and launched websites, installed VoIP infrastructure,
@@ -82,7 +83,7 @@ class AboutMe extends Component {
               for the success through the phases of the SDLC in an Agile work environment.
               He is passionate about working on projects that provide continuous
               opportunities for learning, and takes pride in participating in meaningful
-              endeavors that have the greatest impact to improve the lives of others.  <a href="https://antoniosmagnet.com/#/contact">Contact </a>him with your project specifictions and take the next steps to realizing your vision. </CardText>
+              endeavors that have the greatest impact to improve the lives of others.  <Link to="/contact">Contact </Link>him with your project specifictions and take the next steps to realizing your vision. </CardText>
           </CardBody>
         </Card>
       </div >

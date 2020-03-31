@@ -12,7 +12,7 @@
 	{
 		"id": 2,
 		"name": "VacTrack",
-		"description": "Do you know if you're up to date with your vaccinations? This React app tracks personal vaccination records to an individual user.",
+		"description": "Do you know if you're up to date with your vaccinations? This Heroku deployed React app tracks personal vaccination records with an individual user and features COVID-19 WHO updates.",
 		"modalDesc": "Technologies: React, mongodb, mongoose, heroku, html, css and basic JavaScript.  Role: Project Manager.  This is an iterative development project.",
 		"tech": [
 			"react",
@@ -26,7 +26,7 @@
 			"javascript"
 		],
 		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/VacTrack.png",
-		"deployedURL": "https://vactrack.org/",
+		"deployedURL": "https://vactrac.herokuapp.com/",
 		"codebase": "https://github.com/doctoron/vactrac"
 	},
 	{
@@ -41,16 +41,6 @@
 	},
 	{
 		"id": 4,
-		"name": "Memory Game",
-		"description": "You must have a good memory current events and history to win this Memory Game! This app demonstrates basic logic and state management using React.",
-		"modalDesc": "Utilizing react, JavaScript, html5, css to randomize array of images in state to create a challenging memory exercise.",
-		"tech": ["react", "javascript", "html5", "css"],
-		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Memory-Game.png",
-		"deployedURL": "https://doctoron.github.io/Clicky-Game/",
-		"codebase": "https://github.com/doctoron/Clicky-Game"
-	},
-	{
-		"id": 5,
 		"name": "Mango Store",
 		"description": "This is an 'Amazon-esque' REST-API app using node express backend and ejs templating language, bcrypt hash encryption and token protected routes for shopping cart utilizing a Stripe test account. ",
 		"modalDesc": "MVC Framework Technologies: MongoDb, Mongoose, Expresss, Ejs, Stripe, ES6 JS, CSS",
@@ -65,7 +55,17 @@
 		],
 		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Mango-Store.png",
 		"deployedURL": "https://mvc-rest-api-mango-store.herokuapp.com/",
-		"codebase": "https://github.com/doctoron/my-portfolio/blob/master/README.md"
+		"codebase": "https://github.com/doctoron/am-portfolio/blob/master/README.md"
+	},
+	{
+		"id": 5,
+		"name": "Memory Game",
+		"description": "You must have a good memory current events and history to win this Memory Game! This app demonstrates basic logic and state management using React.",
+		"modalDesc": "Utilizing react, JavaScript, html5, css to randomize array of images in state to create a challenging memory exercise.",
+		"tech": ["react", "javascript", "html5", "css"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Memory-Game.png",
+		"deployedURL": "https://doctoron.github.io/Clicky-Game/",
+		"codebase": "https://github.com/doctoron/Clicky-Game"
 	},
 	{
 		"id": 6,
@@ -96,16 +96,6 @@
 		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/CPR-Game.png",
 		"deployedURL": "https://doctoron.github.io/TriviaGame",
 		"codebase": "https://github.com/doctoron/TriviaGame"
-	},
-	{
-		"id": 9,
-		"name": "Train Times",
-		"description": "Using a Firebase backend, Train Times JavaScript app uses Moment.js to schedule and keep track of train arrival times.",
-		"modalDesc": "Technologies: HTML5, JavaScript, css, bootstrap, moment, firebase",
-		"tech": ["firebase", "javascript", "bootstrap", "html", "css"],
-		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Train-Scheduler.png",
-		"deployedURL": "https://doctoron.github.io/Train-Scheduler-Basic-/",
-		"codebase": "https://github.com/doctoron/Train-Scheduler-Basic-"
 	},
 	{
 		"id": 10,
